@@ -1,0 +1,42 @@
+/*
+totolist style
+*/
+
+/*variable*/
+
+:root{
+    background-color: blue;
+    background-image: url("https://source.unsplash.com/random/");
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
+    background-repeat: no repeat;
+    background-size:cover;
+    color: white;
+    font-size: 1.3rem;
+}
+
+.hero {
+    position: absolute;
+    min-height: 100vh;
+    min-width: 100vw;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(red, green, blue, alpha);
+
+
+
+}
+
+h1 {
+    margin-top: 12rem;
+    margin-bottom:0px;
+    padding-bottom: 0px;
+    font-family: var(--munito-font);
+
+}
+
+
+
+
+
